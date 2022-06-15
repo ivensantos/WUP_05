@@ -41,7 +41,7 @@ barchartGC(~infected + treatment,data=females)
 barchartGC(~infected+ treatment,data=females, type="percent")
 
 ```
- The drug appears to make women mor susceptible to the virus
+ The drug appears to make women more susceptible to the virus
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
